@@ -1,0 +1,50 @@
+{
+  "name": "dofamine-project",
+  "version": "1.0.0",
+  "description": "site",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shumers/Dofamin.git"
+  },
+  "keywords": [
+    "site",
+    "gulp"
+  ],
+  "author": "WebShumer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shumers/Dofamin/issues"
+  },
+  "homepage": "https://github.com/Shumers/Dofamin#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "browser-sync": "^2.12.5",
+    "css-mqpacker": "^5.0.1",
+    "csswring": "^4.2.3",
+    "del": "^2.2.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-csscomb": "^3.0.7",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-postcss": "^6.1.1",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-uglify": "^1.5.3",
+    "gulp-watch": "^4.3.5",
+    "imagemin-pngquant": "^5.0.0",
+    "lost": "^6.7.2",
+    "postcss-focus": "^1.0.0",
+    "postcss-font-magician": "^1.4.0",
+    "postcss-responsive-images": "^1.0.3",
+    "postcss-scss": "^0.1.7",
+    "precss": "^1.4.0",
+    "rimraf": "^2.5.2",
+    "stylelint": "^6.2.2",
+    "stylelint-config-standard": "^6.0.0",
+    "wiredep": "^4.0.0"
+  },
+  "dependencies": {}
+}

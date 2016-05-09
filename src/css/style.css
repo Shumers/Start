@@ -1,0 +1,8 @@
+/*= partials/main.css */
+@import "partials/test";
+
+div {
+	lost-column: 1/2;
+}
+
+/*= partials/buttons.css */
